@@ -1,0 +1,19 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "name": "Įsirašyti JSON Server",
+        "status": "inprogress"
+      },
+      {
+        "id": 2,
+        "name": "Įsirašyti gauti duomenis GET medtodu iš duombazės",
+        "status": "inprogress"
+      },
+      {
+        "id": 3,
+        "name": "Atvaizduoti gautus duomenis užduočių lentlėje",
+        "status": "inprogress"
+      }
+    ]
+  }
