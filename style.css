@@ -1,3 +1,17 @@
+/* Papildomai, galima pasinaudoti SaaS arba Less CSS preprocesoriumi */
+/* -------------------------------------------------------------- */
 body {
-    background: #7b7777;
+    background: #D9D9D9;
 }
+.todo-list {
+    border-radius: 0;
+}
+.add-task-button {
+    width: 100%;
+}
+
+.trinti {
+    /*  */
+}
+
+/* Papildomas komentaras */
